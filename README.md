@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=6L3HNyXEais&t=305s
+
 Clone this project
 
 pip3 install -r requirements.txt
